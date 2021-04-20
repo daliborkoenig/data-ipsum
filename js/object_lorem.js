@@ -76,7 +76,7 @@ function generateUser(){
     date: new Date
   }
   newUser.lastName = newUser.lastName[0].toLocaleUpperCase() + newUser.lastName.substr(1)
-  newUser.email = `${newUser.firstName}.${newUser.lastName}@${generateEmailProvider()}`
+  newUser.email = `${newUser.firstName.toLowerCase()}.${newUser.lastName.toLowerCase()}@${generateEmailProvider()}`
   return newUser
 }
 
