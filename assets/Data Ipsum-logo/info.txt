@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Comfortaa-Light
+font link: https://fonts.google.com/specimen/Comfortaa
+font author: Johan Aakerlund
+font author site: https://aajohan.deviantart.com/
+
+
+icon designer: Romeo Barreto
+icon designer link: /romeo
+        
+
+fontColor: {"hex":"#938C8A"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#938C8A"}
+
+      
